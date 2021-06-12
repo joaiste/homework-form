@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homework-form/static/css/main.c90c9049.chunk.css",
+    "main.js": "/homework-form/static/js/main.46885564.chunk.js",
+    "main.js.map": "/homework-form/static/js/main.46885564.chunk.js.map",
+    "runtime-main.js": "/homework-form/static/js/runtime-main.a907789c.js",
+    "runtime-main.js.map": "/homework-form/static/js/runtime-main.a907789c.js.map",
+    "static/js/2.76a047b5.chunk.js": "/homework-form/static/js/2.76a047b5.chunk.js",
+    "static/js/2.76a047b5.chunk.js.map": "/homework-form/static/js/2.76a047b5.chunk.js.map",
+    "static/js/3.8b15ccf7.chunk.js": "/homework-form/static/js/3.8b15ccf7.chunk.js",
+    "static/js/3.8b15ccf7.chunk.js.map": "/homework-form/static/js/3.8b15ccf7.chunk.js.map",
+    "index.html": "/homework-form/index.html",
+    "static/css/main.c90c9049.chunk.css.map": "/homework-form/static/css/main.c90c9049.chunk.css.map",
+    "static/js/2.76a047b5.chunk.js.LICENSE.txt": "/homework-form/static/js/2.76a047b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a907789c.js",
+    "static/js/2.76a047b5.chunk.js",
+    "static/css/main.c90c9049.chunk.css",
+    "static/js/main.46885564.chunk.js"
+  ]
+}
